@@ -40,4 +40,13 @@ if($Update->callback_query){
 if($Update->my_chat_member){
   //$Update->my_chat_member->new_chat_member->user is object of User
 }
- ```
+```
+ 
+ 
+#### Установка
+```
+composer require crazy-alert/telegram_objects
+```
+
+# P.s.
+Это моя проба с composer
