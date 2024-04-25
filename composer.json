@@ -1,0 +1,11 @@
+{
+    "name": "crazy-alert/telegram_objects",
+    "description": "Входящий массив Update от телеграм bot api преобразует в классы php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "CrazyAlert\\TelegramObjects\\": "src/"
+        }
+    },
+    "require": {}
+}
